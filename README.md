@@ -1,3 +1,11 @@
+Bản chất của tôn giáo là 1 hình thái ý thức xã hội
+
+tôn giáo là nhu cầu tinh thần
+
+Liên minh công nông là nguyên tắc cao nhất của chuyên chính vô sản
+
+Lao động công bằng dân chủ bình đẳng và tự do
+
 Giai cấp công nhân hiện đại hngày nay có một bộ phận công nhân đã tham gia vào sở hữu
 
 Giai cấp công nhân hiện đại đang được bổ sung những nét đặc điểm mới. Hãy xác định câu trả lời SAI.
