@@ -491,144 +491,43 @@ D) Tăng Tăng nhanh về số lượng và chất lượng, là giai cấp đi 
 
 
 Dung:
-Câu 7:
-Các thành viên của một gia đình bắt buộc phải sống chung trong một không gian xác định. Nhận định trên là:
- A) Sai, nhưng không hoàn toàn
- B) Sai
- C) Đúng
- D) Đúng nhưng không hoàn toàn
-Câu 8:
-So với giai cấp công nhân ở thế kỷ XIX tại các nước tư bản chủ nghĩa, thì giai cấp công nhân hiện nay ở các nước này có điểm tương đồng gì khi thực hiện sứ mệnh lịch sử của mình về nội dung chính trị - xã hội?
- A) Xây dựng nhà nước nhằm quản lý mọi mặt của đời sống xã hội
- B) Cùng có mục tiêu lâu dài là giành chính quyền về tay giai cấp công nhân và nhân dân lao động
- C) Hoàn thiện các yếu tố trong kiến trúc thượng tầng, nhất là chính Đảng
- D) Xây dựng kiến trúc thượng tầng, dựa trên cơ sở hạ tầng của xã hội
-Câu 9: Đối với Việt Nam, Đảng ta quan niệm: liên minh giữa công nhân, nông dân và trí thức có vai trò quan trọng như thế nào? Chọn câu trả lời đúng và đầy đủ nhất.
- A) Tất cả các đáp án đều đúng
- B) Là nền tảng xây dựng nhà nước xã hội chủ nghĩa, của dân, do dân, vì dân.
- C) Là cơ sở khối đại đoàn kết toàn dân tộc
- D) Là nguồn sức mạnh, động lực chủ yếu của công cuộc xây dựng và bảo vệ Tổ quốc
-Câu 10: Điền vào chỗ trống:
- Theo Ph.Ăngghen, trong giai đoạn đầu của xã hội cộng sản chủ nghĩa, chủ nghĩa xã hội ... thủ tiêu chế độ tư hữu.
- A) có thể ngay lập tức
- B) có nhiều điều kiện để
- C) nếu có sự hỗ trợ của giai cấp vô sản tiên tiến ở các quốc gia khác thì có thể ngay lập tức
- D) không thể ngay lập tức
-Câu 11: Dân tộc – tộc người thiểu số có nghĩa là:
- A) Số lượng dân cư lớn
- B) Số lượng dân cư ít
- C) Số lượng dân cư trung bình
- D) Không có cư dân sinh sống
-Câu 12: Sứ mệnh lịch sử của giai cấp công nhân được thực hiện trên những nội dung nào?
- A) Nội dung kinh tế
- B) Nội dung văn hóa, tư tưởng
- C) Nội dung chính trị - xã hội
- D) Tất cả các đáp án đều đúng
-Câu 13: Đặc trưng cơ bản nhất của Dân tộc – Quốc gia là đặc trưng nào?
- A) Có chung phương thức sinh hoạt
- B) Có nét văn hóa riêng
- C) Có lãnh thổ chung ổn định không bị chia cắt, có sự quản lý của một Nhà nước
- D) Có ngôn ngữ chung
-Câu 14: Chọn đáp án KHÔNG đúng:
- Chủ nghĩa xã hội là:
- A) Là một khoa học – Chủ nghĩa xã hội khoa học, khoa học về sứ mệnh lịch sử của giai cấp công nhân.
- B) Là một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa.
- C) Là phong trào thực tiễn, trong trào đấu tranh của nhân dân lao động chống lại áp bức bóc lột.
- D) Là quan điểm thời kỳ cổ đại phản ánh lý tưởng giải phóng nhân dân lao động khỏi áp bức, bóc lột, bất công
-Câu 15: Chọn đáp án đúng nhất.
- Sứ mệnh lịch sử của giai cấp công nhân do các yếu tố khách quan nào quy định?
- A) Do địa vị kinh tế của giai cấp công nhân
- B) Do địa vị chính trị - xã hội của giai cấp công nhân quy định
- C) Do địa vị kinh tế của giai cấp công nhân và Do địa vị chính trị - xã hội của giai cấp công nhân quy định
- D) Do nguồn gốc xuất thân của giai cấp công nhân
-Câu 16: Nội dung nào quan trọng nhất trong xây dựng khối liên minh giữa giai cấp công nhân và giai cấp nông dân và các tầng lớp nhân dân lao động khác?
- A) Liên minh về văn hóa
- B) Liên minh về kinh tế
- C) Liên minh về xã hội
- D) Liên minh về chính trị
-Câu 17: Chọn đáp án đúng: Căn cứ vào tính chất quyền lực nhà nước, chức năng của nhà nước được chia thành:
- A) Chức năng giai cấp và chức năng xã hội
- B) Chức năng đối nội và đối ngoại
- C) Chức năng quản lý và chức năng xây dựng
- D) Chức năng chính trị và kinh tế
-Câu 18: Chọn phương án SAI: Nội dung cơ bản của dân chủ trong lĩnh vực kinh tế ở Việt Nam là gì?
- A) Mọi công dân đều bình đẳng và tự do kinh doanh trong khuôn khổ pháp luật
- B) Mọi công dân được sản xuất kinh doanh những mặt hàng nhà nước cấm
- C) Mọi công dân đều bình đẳng trước pháp luật và tự do lựa chọn ngành nghề
- D) Mọi công dân đều bình đẳng và tự do kinh doanh và thực hiện nghĩa vụ đóng thuế theo quy định của pháp luật
-Câu 19: Chọn đáp án đúng trong các đáp án sau:
- Sự khủng hoảng, sụp đổ của chế độ CNXH ở Liên Xô và các nước Đông Âu là:
- A) Là do học thuyết về CNXH khoa học của chủ nghĩa Mác – Lênin đã lỗi thời
- B) Do Đảng cộng sản ở những nước đó xa rời, phản bội cái tất yếu đã được luận giải khoa học trên lập trường chủ nghĩa Mác – Lênin
- C) Tất yếu về lịch sử và Logic của CNXH
-Câu 20: Nội dung của thời kỳ quá độ lên chủ nghĩa xã hội là gì?
- A) Đây là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội trên lĩnh vực văn hóa, xã hội, xây dựng từng bước đời sống tinh thần của chủ nghĩa xã hội.
- B) Đây là thời kỳ cải tạo cách mạng sâu sắc, triệt để trên lĩnh vực chính trị nhằm xây dựng từng bước nền tảng chính trị - xã hội của chủ nghĩa xã hội.
- C) Đây là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội trên tất cả các lĩnh vực kinh tế, chính trị, văn hóa, xã hội, xây dựng từng bước cơ sở vật chất – kỹ thuật và đời sống tinh thần của chủ nghĩa xã hội.
- D) Đây là thời kỳ cải tạo xã hội trên lĩnh vực kinh tế nhằm xây dựng từng bước cơ sở vật chất – kỹ thuật cho chủ nghĩa xã hội.
-Câu 21:Thực chất của quan hệ liên minh công – nông – trí thức là:
- A) Quan hệ tư tưởng – xã hội
- B) Quan hệ văn hoá – xã hội
- C) Quan hệ kinh tế – xã hội
- D) Quan hệ chính trị – xã hội
-Câu 22: Chọn câu trả lời không chính xác:
- Liên minh về mặt văn hóa phải:
- A) Phát triển nền kinh tế nhiều thành phần
- B) Nâng cao chất lượng nguồn nhân lực, xóa đói giảm nghèo
- C) Nâng cao dân trí, phát triển con người toàn diện
- D) Gắn tăng trưởng kinh tế với phát triển văn hóa, con người; thực hiện công bằng xã hội
-Câu 23:Giai đoạn cao của hình thái kinh tế – xã hội cộng sản chủ nghĩa là giai đoạn nào?
- A) Cả thời kỳ quá độ và giai đoạn xã hội chủ nghĩa
- B) Xã hội chủ nghĩa
- C) Cộng sản chủ nghĩa
- D) Thời kỳ quá độ
-Câu 24: Chủ trương thực hiện nhất quán chính sách đại đoàn kết dân tộc của Đảng và Nhà nước ta được thể hiện như thế nào?
- Lựa chọn phương án sai
-A) Nghiêm cấm mọi hành vi chia rẽ, phân biệt đối xử với công dân vì lý do tín ngưỡng, tôn giáo
-B) Khuyến khích hoạt động tôn giáo mang tính tâm linh, mê tín dị đoan
-C) Mọi công dân không phân biệt tín ngưỡng, tôn giáo đều có quyền và nghĩa vụ xây dựng, bảo vệ tổ quốc
-D) Vận động quần chúng nhân dân tham gia lao động sản xuất, nâng cao trình độ kiến thức để tăng cường sự đoàn kết
-Câu 25: Câu nói: “Tất cả mọi tôn giáo chẳng qua chỉ là sự phản ánh hư ảo - vào trong đầu óc của con người  của những lực lượng ở bên ngoài chi phối cuộc sống hằng ngày của họ, chỉ là sự phản ánh trong đó những lực lượng ở trần thế đã mang hình thức những lực lượng siêu trần thế” là của ai?
+Câu 7: Các thành viên của một gia đình bắt buộc phải sống chung trong một không gian xác định. Nhận định trên là -> B) Sai
 
- ->D, Ph. Ăngghen
-câu 26: Chọn đáp án đúng: Nền dân chủ xã hội chủ nghĩa là nền dân chủ
--> C, Của nhân dân lao động
-Câu 27: Chọn đáp án đúng: Mâu thuẫn kinh tế cơ bản của chủ nghĩa tư bản là: 
--> C, mâu thuẫn giữa tính chất xh hóa của lực lượng sx với chế độ chiếm hữu tư nhân tư bản chủ nghĩa đối với tư liệu sản xuất 
-Câu 28: Chọn đáp án đúng: Nhà nước ra đời xuất phát từ nhu cầu nào dưới đây:
--> A, quản lý các công việc chung của xã hội
-Câu 29:Khẳng định nào dưới đây đúng về nội dung của dân chủ trong lĩnh vực chính trị
--> D, Công dân có quyền bầu cử, ứng cử vào cơ quan quyền lực nhà nước
-Câu 30: Ở VN tín đồ tôn giáo nào là đông nhất
--> A, Phật giáo
-Câu 31: Điền vào chỗ trống sau: “Chuyên chính vô sản là một hình thức đặc biệt của liên minh giai cấp giữa …, đội tiên phong của những người lao động, với đông đảo những tầng lớp lao động không phải vô sản hoặc với phần lớn những tầng lớp đó, liên minh nhằm chỗng lại tư bản”
--> A, giai cấp vô sản
-Câu 32: Điền từ còn thiếu: Trong mỗi giai đoạn của lịch sử, tác động của gia đình đối với xã hội….
--> D, không hoàn toàn giống nhau
-Câu 33: Trong các phát biểu sau đây, phát biểu nào chính xác nhất
--> C, không chỉ khác biệt về trình độ phát triển kinh tế mà còn do sự khác biệt về hoàn cảnh, đk lịch sử cụ thể của mỗi nước nên xu hướng biến đổi cơ cấu xã hội, giai cấp khác nhau ở mỗi quốc gia
-Câu 34: Điền vào chỗ trống trong nhận định: Gia đình - nơi con người sinh ra và trưởng thành, có tác dụng…..đến sự phát triển của mỗi cá nhân và toàn xã hội
--> A, to lớn
-Câu 35: chọn đáp án đúng trong các đáp án sau: Khái niệm “Hệ thống chính trị xã hội chủ nghĩa” do tổ chức nào sau đây nêu ra 
--> Đảng cộng sản việt nam
-Câu 36: Ai đưa ra luận điểm: “ Nếu không giải phóng phụ nữ là xây dựng chủ nghĩa xã hội chỉ một nửa”
--> B, Hồ Chí Minh
-Câu 37: Chọn đáp án đúng nhất: Phương hướng xây dựng giai cấp công nhân Việt Nam hiện nay là 
--> Tất cả đáp án đều đúng
-Câu 38: Luận điểm nào sao đây không thuộc đặc trưng của XHCN mà nhân dân ta đang xây dựng
--> D, có nhà nước pháp trị xã hội chủ nghĩa do đảng lãnh đạo
-Câu 39: Chọn đáp án đúng: Phương hướng xây dựng giai cấp công nhận việt nam hiện nay là: 
--> A, tất cả các đáp án đều đúng
-Câu 40: Quyền tự quyết của các dân tộc được thể hiện như thế nào
--> C, Các dân tộc tự quyết định vân mệnh của dân tộc mình, quyền tự lựa chọn chế độ chính trị và con đường phát triển của dân tộc mình
-Câu 41: CHọn đáp án đúng: Trong các chức năng sau đây, chức năng nào là quan trongj nhất, khó khăn nhất của nhà nước xã hội chủ nghĩa
--> Chức năng tổ chức quản lý kinh tế
-Câu 42: Chọn đáp án đúng: Phương hướng xây dựng giai cấp công nhân việt nam hiện nay là
--> tất cả các đáp án đều đúng
-Câu 43: Điền từ: Trong các hình thức gia đình tập thể thời nguyên thủy, địa vị phụ nữ được đề cao …. áp lực và bất bình trong xã hội 
--> 
-Câu 44: 
+Câu 8: So với giai cấp công nhân ở thế kỷ XIX tại các nước tư bản chủ nghĩa, thì giai cấp công nhân hiện nay ở các nước này có điểm tương đồng gì khi thực hiện sứ mệnh lịch sử của mình về nội dung chính trị - xã hội -> B) Cùng có mục tiêu lâu dài là giành chính quyền về tay giai cấp công nhân và nhân dân lao động
 
+Câu 9: Đối với Việt Nam, Đảng ta quan niệm: liên minh giữa công nhân, nông dân và trí thức có vai trò quan trọng như thế nào -> A) Tất cả các đáp án đều đúng
+
+Câu 10: Theo Ph.Ăngghen, trong giai đoạn đầu của xã hội cộng sản chủ nghĩa, chủ nghĩa xã hội ... thủ tiêu chế độ tư hữu -> D) không thể ngay lập tức
+
+Câu 11: Dân tộc – tộc người thiểu số có nghĩa là -> B) Số lượng dân cư ít
+
+Câu 12: Sứ mệnh lịch sử của giai cấp công nhân được thực hiện trên những nội dung nào -> D) Tất cả các đáp án đều đúng
+
+Câu 13: Đặc trưng cơ bản nhất của Dân tộc – Quốc gia là đặc trưng nào -> C) Có lãnh thổ chung ổn định không bị chia cắt, có sự quản lý của một Nhà nước
+
+Câu 14: Chọn đáp án KHÔNG đúng: Chủ nghĩa xã hội là -> D) Là quan điểm thời kỳ cổ đại phản ánh lý tưởng giải phóng nhân dân lao động khỏi áp bức, bóc lột, bất công
+
+Câu 15: Sứ mệnh lịch sử của giai cấp công nhân do các yếu tố khách quan nào quy định -> C) Do địa vị kinh tế của giai cấp công nhân và Do địa vị chính trị - xã hội của giai cấp công nhân quy định
+
+Câu 16: Nội dung nào quan trọng nhất trong xây dựng khối liên minh giữa giai cấp công nhân và giai cấp nông dân và các tầng lớp nhân dân lao động khác -> D) Liên minh về chính trị
+
+Câu 17: Căn cứ vào tính chất quyền lực nhà nước, chức năng của nhà nước được chia thành -> A) Chức năng giai cấp và chức năng xã hội
+
+Câu 18: Chọn phương án SAI: Nội dung cơ bản của dân chủ trong lĩnh vực kinh tế ở Việt Nam là gì -> B) Mọi công dân được sản xuất kinh doanh những mặt hàng nhà nước cấm
+
+Câu 19: Sự khủng hoảng, sụp đổ của chế độ CNXH ở Liên Xô và các nước Đông Âu là -> B) Do Đảng cộng sản ở những nước đó xa rời, phản bội cái tất yếu đã được luận giải khoa học trên lập trường chủ nghĩa Mác – Lênin
+
+Câu 20: Nội dung của thời kỳ quá độ lên chủ nghĩa xã hội là gì -> C) Đây là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội trên tất cả các lĩnh vực kinh tế, chính trị, văn hóa, xã hội, xây dựng từng bước cơ sở vật chất – kỹ thuật và đời sống tinh thần của chủ nghĩa xã hội
+
+Câu 21: Thực chất của quan hệ liên minh công – nông – trí thức là -> D) Quan hệ chính trị – xã hội
+
+Câu 22: Chọn câu trả lời không chính xác: Liên minh về mặt văn hóa phải -> A) Phát triển nền kinh tế nhiều thành phần
+
+Câu 23: Giai đoạn cao của hình thái kinh tế – xã hội cộng sản chủ nghĩa là giai đoạn nào -> C) Cộng sản chủ nghĩa
+
+Câu 24: Chủ trương thực hiện nhất quán chính sách đại đoàn kết dân tộc của Đảng và Nhà nước ta được thể hiện như thế nào? Lựa chọn phương án sai -> B) Khuyến khích hoạt động tôn giáo mang tính tâm linh, mê tín dị đoan
+
+Câu 25: Câu nói: “Tất cả mọi tôn giáo chẳng qua chỉ là sự phản ánh hư ảo - vào trong đầu óc của con người của những lực lượng ở bên ngoài chi phối cuộc sống hằng ngày của họ, chỉ là sự phản ánh trong đó những lực lượng ở trần thế đã mang hình thức những lực lượng siêu trần thế” là của ai -> Cac Mác (Karl Marx)
 
 
 
